@@ -1,11 +1,5 @@
 # Causal AI Production Pipeline Template
 
-This repository provides a practical, end-to-end production pipeline that combines:
-
-- **Technical, code-first causal methods** (in the spirit of Aleksander Molak and *Causal Inference and Discovery in Python*).
-- **Business, governance, and ROI framing** (in the spirit of Judith S. Hurwitz and *Causal Artificial Intelligence*).
-
-Use this template across marketing, product, healthcare, and operations settings.
 
 ## Pipeline Overview
 
